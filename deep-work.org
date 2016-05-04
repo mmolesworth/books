@@ -1,0 +1,98 @@
+* Introduction
+** Carl Jung 
+** Deep Work - professional activities perfomed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.
+** Shallow Work - noncognitively demanding, logistical-style tasks, often performed while distracted. These efforts tend to not creat much new value in the world and are easy to replicate.
+** Jason Benn
+*** His work responsibilites could be automated by a "kludged together" Excel script.
+*** Dedicated himself to learning how to program
+*** Locked himself away with no computer
+** Deep work is a skill that is highly valuable today
+*** Two reasons for value:
+**** Dependent on an information economy with systems that change rapidly. 
+***** Need to master the art of learning complicated things
+**** If you can create something useful, its reachable audience is almost limitless
+***** Audience can easily find a better alternative to mediocre work
+** Deep Work Hypothesis
+   The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy. As a consequence, the few who cultivate this skill, and then make it the core of their working life, will thrive.
+* 1 - Deep Work is Valuable
+** Race Against the Machine
+*** The Great Restructuring is not driving down all jobs but is instead dividing them
+** Average is Over
+** Three groups who will succed in the future economy
+*** High Skilled Workers
+**** Those with the ability to work with and tease valuable results out of increasingly complex machines will thrive.
+**** The key question will be: are you good with working with intelligent machines or not?
+*** Superstars
+**** Once the talent market is universally accessible, those at the peak of the market thrive while the rest suffer.
+**** Hearing a successionn of mediocre singers does not add up to a single outstanding performance
+**** Talent is not a commodity you can buy in bulk and combine to reach the needed levels: There's a premium to being the best
+**** The rapid rise of communications and collaboration technologies has transformed many other formerly local markets into a similarly universal bazaar.
+*** Owners
+**** Access to capital provides massive advantages
+**** some periods offer more advantages than others
+**** Good time to have capital
+**** As digital technology reduces the need for labor in many industries, the proportion of the rewards returned to those who own the intelligent machines is growing
+** Two Core Capabilities for Thriving in the New Economy
+*** The ability to quickly master hard things
+*** The ability to produce at an elite level, in terms of both quality and speed
+** The Intellectual Life
+*** to advance your understanding of your field you must tackle the relevant topics systemically, allowing your "converging rays of attention" to uncover the truth latent in each
+*** To learn requires intense concentration
+*** Delibrate Practice
+**** 1. your attention is focused tightly on a specific skill you're trying to improve or an idea you're trying to master
+**** 2. you receive feedback so you can correct your approach to keep your attention exactly where it's most productive
+** The Talent Code
+** Give and Take
+*** There's one idea in particular that seems central to his method: the batching of hard but important intellectual work into long, uninterrupted stretches
+** Sophie Leroy - Why is it so hard to do my work
+*** Attention residue
+*** switiching from task to task is not very efficient
+*** potentially devasting to your performance
+** Why are there distracted people who do well??
+*** Executives
+*** Salesman
+*** Lobbyists
+*** Don't by too hasty to label your job as non-deep
+* 2 - Deep Work is Rare
+** Open floor plans
+*** Facebook's new buildinng - "the largest open floor plan in the world"
+*** More than three thousand employees will work on moveable furniture spread over a ten-acre expanse
+*** "We encourage people to stay out in the open because we believe in serendipity - and people walking by each other teaching new things."
+** Instant Messaging 
+** Social Media
+** These activites decrease our ability to go deep
+** The Secret Life of Office Buildings
+*** "Evan though you're not aware at the time, the brain responds to distractions."
+** Cal's Objective - to convince us that although the current embrace of distraction is a real phenomenon, it's built on an unstable foundation and can be easily dismissed once you decide to cultivate the deep work ethic. 
+** 1. - The Metric Black Hole
+*** Tom Cochran - found that the company was spending well over 1 million dollars a year to pay people to process email
+*** showed that it's difficult to measure costs of distraction
+*** Thomas Piketty - extreme growth of executive salaries
+*** "it is objectively difficult to measure individual contributions to a firm's output"
+*** increasingly difficult to measure individuals' contributions 
+** The Principle of Least Resistance
+*** Definition: In a business setting, without clear feedback on the impact of various behaviors to the bottom line, we will tend towad the behaviors that are easiest in the moment
+*** Culture of Connectivity persists because it is the easiest
+*** Acceptable to run your day out of your inbox
+*** If email moved to the periphery of your day, you'd be required to deploy a more thoughtful approach to figuring out what you should be working on and for how long
+*** Common practice of regularly scheduled meetings
+** Busyness as a Proxy for Productivity
+*** Definition: In the absense of clear indicators of what it means to be productive and valuable in their jobs, many knowledge workers turn back toward an industrial indicator of productivity: doing lots of stuff in a visible manner
+*** Richard Feynman was adamant about avoiding administrative activities because he knew they would decrease his ability to do the one thing that mattered most in his professional work
+*** Clarity about what matters provides clarity about what does not
+*** Matthew Crawford - Shop Clas as Soulcraft
+**** "Managers themselves inhabit a bewildering psychic landscape, and are made anxious by the vague imperatives they must answer to."
+**** Quit his job as a think tank director to open a motorcycle repair shop exactly to escape this bewilderment
+**** The feeling of taking a broken machine, struggling with it, then eventually enjoying a tangible indication that he had succeeded provides a concrete senes eof accomplishment he struffled to replicate when his day revolved vaguely around reports and communications strategies.
+**** Similar problem for knowledge workers: they want to prove that they're productive members of the team and are earning their keep, but they're not entirely clear what this goal constitutes.
+**** Knowledge workers are tending toward increasingly visible busyness because they lack a better way to demonstrate their value.
+**** This mind-set provides another explanation for the popularity of many depth-destroying behaviors.
+     If you send and answer emails at all hours, if you schedule and attend meetings constantly, if you weigh in on instant messaging systems like Hall within seconds when someone poses a new question, of if you roam your open office bouncing ideas off all whom you encounter - all of these behaviors make you seem busy in public manner.
+** The Cult of the Internet
+*** Neil Postman 
+*** If it's high tech, we began to instead assume, then it's good. Case Closed.
+*** Technopoly eliminates alternatives to itself
+*** To Save Everything, Click Here
+*** Deep work is a at a severe disadvantage in a technopoly because it builds on values like quality, craftmanship, and matery that are decidely old-fashioned and nontechnological. Evan worse, to support deep work often requires the rejection of much of what is new and high tech.
+** The myopia of your peers and employers uncovers a great personal advantage.
+* 3 - Deep Work is Meaningful
